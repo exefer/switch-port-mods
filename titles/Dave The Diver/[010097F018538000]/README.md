@@ -7,6 +7,7 @@
 - v1.0.2.747 (June 4th, 2024. Latest update available. The mod doesn't need an update)
 - v1.0.1.598 
 - v1.0.2.651
+- v1.0.5.1098
 
 >[!NOTE]
 Previously this mod supported all versions and didn't need to be updated. However with version v1.0.1.598 this has changed.

@@ -19,7 +19,7 @@ If you want, you can add a FPS limiter using MSI Afterburner + RivaTurner and ca
 
 ## Versions supported
 
-- **1.0.0 + 1.10.1**
+- **1.0.0 + 1.10.1 + 2.12.2**
 
 > [!NOTE]
 These mods shouldn't ask for an update and should work on all versions.
